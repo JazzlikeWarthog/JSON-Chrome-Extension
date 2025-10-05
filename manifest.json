@@ -1,0 +1,10 @@
+{
+  "name": "Extension Example",
+  "description": "Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "JSON_vector_logo.png"
+  }
+}
