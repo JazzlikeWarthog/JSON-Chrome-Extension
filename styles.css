@@ -1,1 +1,10 @@
-
+/*Font importing*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap');
+/*General styling*/
+body::selection {
+  background-color: red;
+  color: white;
+}
+body {
+  font-family: Noto Sans Mono;
+}
